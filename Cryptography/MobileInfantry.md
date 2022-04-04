@@ -70,7 +70,7 @@ for i in range(7):
 Do mình khá ngu code nên đến đoạn này mình là nhập tay từng chuỗi một vào pad để kiểm tra input.\
 Và nhận được chuỗi hợp lệ là: EFGHIJKLMNOPQRSTUVWXxwvutsrqponmlkjihg
 
-#### Source code tham khảo: 
+#### Source code tham khảo: [xryuseix](https://github.com/xryuseix/CTF_Writeups/blob/master/SpaceHeroes2022/Writeups.md)
 ```python
 from pwn import *
 
