@@ -103,4 +103,4 @@ for i in range(7):
             if "[+] Welcome" in line:
                 break
 ```
-### shctf{Th3-On1Y-G00d-BUg-I$-A-deAd-BuG}
+### Flag: shctf{Th3-On1Y-G00d-BUg-I$-A-deAd-BuG}
