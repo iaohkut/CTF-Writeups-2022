@@ -1,7 +1,7 @@
 ### Challenge crypto: XORROX
 
 > We are exclusive -- you can't date anyone, not even the past! And don't even think about looking in the mirror! \
-Author: @JohnHammond#6971
+Author: @JohnHammond#6971\
 Point: 50pts
 
 * xorrox.py
