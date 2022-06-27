@@ -81,5 +81,5 @@ for i in range(1, len(xorrox)):
     key.append(k)
     print(chr(enc[i]^k), end="")
 ```
-Sửa lại flag chó chuẩn định dạng đề "flag{...}".
+Sửa lại flag cho chuẩn định dạng đề "flag{...}".
 ### Flag: flag{21571dd4764a52121d94deea22214402}
