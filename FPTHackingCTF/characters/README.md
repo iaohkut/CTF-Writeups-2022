@@ -5,9 +5,9 @@
 
 Challenge này có 2 file đính kèm, trong đó có 1 file để thực thi mã khóa flag, và một file là kết quả mã hóa.
 
-#### 1. out.txt
+#### 1. [out.txt](https://github.com/iaohkut/CTF-Writeups-2022/blob/main/FPTHackingCTF/characters/out.txt)
 
-#### 2. enc.py
+#### 2. [enc.py](https://github.com/iaohkut/CTF-Writeups-2022/blob/main/FPTHackingCTF/characters/enc.py)
 
 ```python
 from Crypto.Util.number import getPrime, bytes_to_long, GCD
@@ -51,4 +51,4 @@ Kết quả cho ra là chữ "F" chính là kí tự đầu của flag.
 
 Vậy giờ ta chỉ cần dùng RsaCtfTool để decode từng kí tự một trong flag.
 
-### [Exploit code]()
+### [Exploit code](https://github.com/iaohkut/CTF-Writeups-2022/blob/main/FPTHackingCTF/characters/solve.py)
