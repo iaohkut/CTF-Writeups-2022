@@ -4,9 +4,9 @@
 
 Challenge này có 2 file đính kèm, trong đó có 1 file để thực thi mã khóa flag, và một file là kết quả mã hóa.
 
-#### \* [out.txt]()
+#### \* [out.txt](https://github.com/iaohkut/CTF-Writeups-2022/blob/main/FPTHackingCTF/RRSSAA/output.txt)
 
-#### \* [enc.py]()
+#### \* [enc.py](https://github.com/iaohkut/CTF-Writeups-2022/blob/main/FPTHackingCTF/RRSSAA/enc.py)
 
 ### $Explain source code
 
