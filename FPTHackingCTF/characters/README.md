@@ -46,9 +46,13 @@ for i in flag:
 ### Solve:
 
 Đầu tiên chúng ta sử dụng tool RsaCtfTool để thử xem có decode về thành dạng plaintext hay không?
+
 ![Screenshot 2022-06-27 145720](https://user-images.githubusercontent.com/77691959/175889749-0571df41-bd5f-4b61-baee-af865ab475cc.png)
+
 Kết quả cho ra là chữ "F" chính là kí tự đầu của flag.
 
 Vậy giờ ta chỉ cần dùng RsaCtfTool để decode từng kí tự một trong flag.
 
 ### [Exploit code](https://github.com/iaohkut/CTF-Writeups-2022/blob/main/FPTHackingCTF/characters/solve.py)
+
+#### Flag: FPTUHacking{3ncRYpt1ng_34ch_ch4r_ainT_G0nn4_h3lp}
